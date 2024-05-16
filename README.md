@@ -52,19 +52,22 @@ plt.axis("off")
 
 ### Display the input Image
 <br>
-<img src="https://github.com/Jenishajustin/OPENING--AND-CLOSING/assets/119405070/d82f5eee-d2d2-4063-b643-a1bb8bd5a528" height=100 width=400>
+
+![image](https://github.com/RagulRM/OPENING--AND-CLOSING/assets/121609342/671965f3-c40c-4f9b-a214-824e8c046aa5)
 
 <br>
 
 ### Display the result of Opening
 <br>
-<img src="https://github.com/Jenishajustin/OPENING--AND-CLOSING/assets/119405070/ef5d7ed9-f366-423b-bcea-796a11fbf308" height=100 width=400>
+
+![image](https://github.com/RagulRM/OPENING--AND-CLOSING/assets/121609342/4479e7f9-681d-45b8-b336-c4b770c565c4)
 
 <br>
 
 ### Display the result of Closing
 <br>
-<img src="https://github.com/Jenishajustin/OPENING--AND-CLOSING/assets/119405070/3d64d0d2-c89d-446e-bbac-78f6c39a1564" height=100 width=400>
+
+![image](https://github.com/RagulRM/OPENING--AND-CLOSING/assets/121609342/20587fea-579b-4116-a5e6-8aa1ddc03742)
 
 <br>
 
