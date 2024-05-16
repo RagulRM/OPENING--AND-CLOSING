@@ -53,21 +53,21 @@ plt.axis("off")
 ### Display the input Image
 <br>
 
-![image](https://github.com/RagulRM/OPENING--AND-CLOSING/assets/121609342/671965f3-c40c-4f9b-a214-824e8c046aa5)
+![image](https://github.com/RagulRM/OPENING--AND-CLOSING/assets/121609342/048724f7-ea98-4f91-9542-d391ee916adb)
 
 <br>
 
 ### Display the result of Opening
 <br>
 
-![image](https://github.com/RagulRM/OPENING--AND-CLOSING/assets/121609342/4479e7f9-681d-45b8-b336-c4b770c565c4)
+![image](https://github.com/RagulRM/OPENING--AND-CLOSING/assets/121609342/87a5bc25-473a-4848-adac-b3f93a49a77b)
 
 <br>
 
 ### Display the result of Closing
 <br>
 
-![image](https://github.com/RagulRM/OPENING--AND-CLOSING/assets/121609342/20587fea-579b-4116-a5e6-8aa1ddc03742)
+![image](https://github.com/RagulRM/OPENING--AND-CLOSING/assets/121609342/ef59865b-ab82-4105-af59-db57da1d3827)
 
 <br>
 
