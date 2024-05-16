@@ -27,7 +27,7 @@ import matplotlib.pyplot as plt
 ```python
 img1=np.zeros((100,400), dtype='uint8')
 font=cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(img1,'Euphoria',(5,70), font,2,(255),5,cv2.LINE_AA)
+cv2.putText(img1,'Paul Walker',(5,70), font,2,(255),5,cv2.LINE_AA)
 plt.imshow(img1)
 plt.axis("off")
 ```
